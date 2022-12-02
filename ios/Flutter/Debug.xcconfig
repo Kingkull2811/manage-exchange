@@ -1,0 +1,20 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+//import UIKit
+//import FirebaseCore
+//
+//
+//@UIApplicationMain
+//class AppDelegate: UIResponder, UIApplicationDelegate {
+//
+//  var window: UIWindow?
+//
+//  func application(_ application: UIApplication,
+//    didFinishLaunchingWithOptions launchOptions:
+//      [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+//    FirebaseApp.configure()
+//
+//    return true
+//  }
+//}
